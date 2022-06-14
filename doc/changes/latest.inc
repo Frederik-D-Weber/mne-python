@@ -97,7 +97,8 @@ Enhancements
 
 Bugs
 ~~~~
-
+- Fix bug in mne.io.read_raw_edf for allowing hypnodyne zmax wearable EDFs to be read in (:gh:`10754` by :newcontrib:`Frederik D. Weber`)
+   
 - Pick also bad channels when selecting T1T2 magnetometers in :func:`mne.preprocessing.maxwell_filter` (:gh:`10639` by :newcontrib:`Matti Toivonen`)
 
 - Make ``color`` parameter check in in :func:`mne.viz.plot_evoked_topo` consistent (:gh:`10217` by :newcontrib:`T. Wang` and `Stefan Appelhoff`_)
