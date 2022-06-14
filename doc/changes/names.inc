@@ -451,3 +451,5 @@
 .. _Matti Toivonen: https://github.com/mattitoi
 
 .. _Simon Kern: https://github.com/skjerns
+
+.. _Frederik D. Weber: https://github.com/Frederik-D-Weber
